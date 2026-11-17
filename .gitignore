@@ -1,0 +1,5 @@
+build/
+downloads/
+*.img
+*.7z
+*.part
